@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello!%20I'm%20Reyydev&fontSize=50&fontAlignY=35&desc=%3C%20Fullstack%20%26%20Automation%20/%3E&descAlignY=55&animation=twinkling" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello!%20I'm%20Reyydev&fontSize=50&fontAlignY=35&desc=Fullstack%20and%20Automation&descAlignY=55&animation=twinkling" alt="Banner" />
   
   <a href="https://rvdevv.my.id">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+space!;I'm+Reyydev;Fullstack+%26+Automation;Building+Userbots+%26+Robust+APIs" alt="Typing SVG" />

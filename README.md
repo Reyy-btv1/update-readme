@@ -58,13 +58,6 @@ I am a passionate developer with an obsession for slick front-end dev, tight per
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Reyy-btv1&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
-
----
 
 ## ✨ What Makes It Tick
 
@@ -81,14 +74,7 @@ I am a passionate developer with an obsession for slick front-end dev, tight per
 ## 📊 Github Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reyy-btv1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reyy-btv1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyy-btv1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reyy-btv1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---

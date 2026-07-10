@@ -35,6 +35,39 @@ Halo! Saya **Muhammad Raihan Surya Pratama**, mahasiswa Informatika di UPN Veter
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+  <table bordercolor="#ffffff">
+    <tr>
+      <td width="50%" valign="top">
+        <b>1. RVstore Agency & Dashboard</b><br/>
+        Aplikasi web profesional dengan <i>admin dashboard</i>, integrasi Prisma, <i>dark mode</i>, dan optimasi performa kelas atas.<br/>
+        <code>Next.js</code> <code>Prisma</code> <code>TailwindCSS</code>
+      </td>
+      <td width="50%" valign="top">
+        <b>2. Advanced Telegram Userbot</b><br/>
+        Ekosistem <i>multi-client bot</i> dengan dukungan Custom Emoji Premium, fitur <i>forwarding</i> log dua arah, dan manajemen database otomatis.<br/>
+        <code>Python</code> <code>Pyrogram</code> <code>Automation</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <b>3. QR Ticketing & Event System</b><br/>
+        Sistem registrasi <i>multi-step</i> otomatis (Form, Payment, Upload) dengan integrasi <i>generate</i> QR Code <i>real-time</i> berbasis Apps Script.<br/>
+        <code>Next.js</code> <code>Apps Script</code> <code>QR Code</code>
+      </td>
+      <td width="50%" valign="top">
+        <b>4. Neo-Brutalism Portfolio</b><br/>
+        Ruang digital interaktif dengan desain <i>raw</i>, animasi halus, widget <i>real-time</i>, dan arsitektur modular yang super cepat.<br/>
+        <code>Next.js</code> <code>TypeScript</code> <code>CSS Keyframes</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 💻 Tech Stack & Tools
 
 <p align="center">

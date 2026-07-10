@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Portfolio%20Neo-Brutalism&fontSize=50&fontAlignY=35&desc=by%20Reyy-btv1&descAlignY=55&animation=twinkling" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello!%20I'm%20Reyy-btv1&fontSize=50&fontAlignY=35&desc=Fullstack%20Web%20Developer%20%7C%20UI/UX%20Enthusiast&descAlignY=55&animation=twinkling" alt="Banner" />
   
   <a href="https://rvdevv.my.id">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+space!;I'm+Reyy-btv1;Building+Neo-Brutalism+Experiences;Next.js+%7C+TypeScript+%7C+React" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+space!;I'm+a+Fullstack+Developer;Building+Neo-Brutalism+Experiences;Crafting+Fast,+Scalable+Web+Apps;Next.js+%7C+TypeScript+%7C+TailwindCSS" alt="Typing SVG" />
   </a>
   
   <p align="center">
@@ -23,23 +23,48 @@
 
 ---
 
-## 🌟 About This Project
+## 🌟 About This Project & Me
 
 Yo! Welcome to my digital space. This repo isn't just another boring CV—it's a fully functional playground built with a raw, unfiltered **Neo-Brutalism** vibe. Think bold typography, harsh shadows, colors that actually pop, and micro-animations that give the whole thing a pulse.
 
-I built this to push the limits of what a personal site can be, showcasing my obsession with slick front-end dev, tight performance, and pixel-perfect interactive design. 
+I am a passionate developer with an obsession for slick front-end dev, tight performance, and pixel-perfect interactive design. I love building things that live on the internet, whether that be websites, applications, or anything in between.
 
-🌍 **Catch it live:** [rvdevv.my.id](https://rvdevv.my.id)
+🌍 **Catch my live portfolio:** [rvdevv.my.id](https://rvdevv.my.id)
 
 ---
 
 ## 💻 Tech Stack & Tools
 
+<p align="center">
+  <i>Here are the technologies I work with to build robust web applications:</i>
+</p>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,css,html,js,git,github,vercel,vscode" alt="My Skills" />
+  <p><strong>🌐 Frontend Development</strong></p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,vite,figma" alt="Frontend Skills" />
+  <br><br>
+  
+  <p><strong>⚙️ Backend Development</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,prisma,graphql,firebase" alt="Backend Skills" />
+  <br><br>
+  
+  <p><strong>🗄️ Databases</strong></p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase" alt="Database Skills" />
+  <br><br>
+  
+  <p><strong>🛠️ DevOps & Tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vercel,vscode,postman,bash" alt="Tools Skills" />
 </div>
 
 <br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Reyy-btv1&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
+
+---
 
 ## ✨ What Makes It Tick
 
@@ -53,7 +78,7 @@ I built this to push the limits of what a personal site can be, showcasing my ob
 
 ---
 
-## 📊 Github Stats
+## 📊 Github Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Reyy-btv1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
@@ -68,28 +93,6 @@ I built this to push the limits of what a personal site can be, showcasing my ob
 
 ---
 
-## 🚀 Spin It Up Locally
-
-Curious about the code? Here's how you can fire it up on your own machine:
-
-### 1. Grab the code
-```bash
-git clone https://github.com/Reyy-btv1/porto-reyy.git
-cd porto-reyy
-```
-
-### 2. Install the packages
-```bash
-npm install
-```
-
-### 3. Start the engine
-```bash
-npm run dev
-```
-Hit up [http://localhost:3000](http://localhost:3000) in your browser and you're good to go.
-
----
 
 ## 📜 The Boring (But Important) Legal Stuff
 

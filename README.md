@@ -168,5 +168,5 @@ Look, I put a ton of time, coffee, and late nights into building my projects. Ev
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
-  <p>Made with ❤️ by <strong>Reyydev</strong>.</p>
+  <p>Made with by  <strong>Reyydev</strong>.</p>
 </div>
